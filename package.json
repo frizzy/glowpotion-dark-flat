@@ -1,13 +1,15 @@
 {
   "name": "glowpotion-dark-flat",
   "displayName": "Glowpotion Dark Flat",
+  "publisher": "frizzy",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/frizzy/glowpotion-dark-flat.git"
   },
   "license": "MIT",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.78.0"
   },
