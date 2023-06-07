@@ -1,0 +1,26 @@
+{
+  "name": "glowpotion-dark-flat",
+  "displayName": "Glowpotion Dark Flat",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frizzy/glowpotion-dark-flat.git"
+  },
+  "license": "MIT",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Glowpotion Dark Flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Glowpotion Dark Flat-color-theme.json"
+      }
+    ]
+  }
+}
